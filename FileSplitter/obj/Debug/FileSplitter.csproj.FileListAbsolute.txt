@@ -1,0 +1,10 @@
+E:\Shared\GM\FileSplitter\obj\Debug\FileSplitter.csprojAssemblyReference.cache
+E:\Shared\GM\FileSplitter\obj\Debug\FileSplitter.Form1.resources
+E:\Shared\GM\FileSplitter\obj\Debug\FileSplitter.Properties.Resources.resources
+E:\Shared\GM\FileSplitter\obj\Debug\FileSplitter.csproj.GenerateResource.cache
+E:\Shared\GM\FileSplitter\obj\Debug\FileSplitter.csproj.CoreCompileInputs.cache
+E:\Shared\GM\FileSplitter\bin\Debug\FileSplitter.exe.config
+E:\Shared\GM\FileSplitter\bin\Debug\FileSplitter.exe
+E:\Shared\GM\FileSplitter\bin\Debug\FileSplitter.pdb
+E:\Shared\GM\FileSplitter\obj\Debug\FileSplitter.exe
+E:\Shared\GM\FileSplitter\obj\Debug\FileSplitter.pdb
