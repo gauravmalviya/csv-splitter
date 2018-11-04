@@ -1,0 +1,10 @@
+E:\Shared\GM\file-spliter\csv-spliter\FileSplitter\bin\Debug\FileSplitter.exe.config
+E:\Shared\GM\file-spliter\csv-spliter\FileSplitter\bin\Debug\FileSplitter.exe
+E:\Shared\GM\file-spliter\csv-spliter\FileSplitter\bin\Debug\FileSplitter.pdb
+E:\Shared\GM\file-spliter\csv-spliter\FileSplitter\obj\Debug\CSVSplitter.csprojAssemblyReference.cache
+E:\Shared\GM\file-spliter\csv-spliter\FileSplitter\obj\Debug\FileSplitter.frmCSV.resources
+E:\Shared\GM\file-spliter\csv-spliter\FileSplitter\obj\Debug\FileSplitter.Properties.Resources.resources
+E:\Shared\GM\file-spliter\csv-spliter\FileSplitter\obj\Debug\CSVSplitter.csproj.GenerateResource.cache
+E:\Shared\GM\file-spliter\csv-spliter\FileSplitter\obj\Debug\CSVSplitter.csproj.CoreCompileInputs.cache
+E:\Shared\GM\file-spliter\csv-spliter\FileSplitter\obj\Debug\FileSplitter.exe
+E:\Shared\GM\file-spliter\csv-spliter\FileSplitter\obj\Debug\FileSplitter.pdb
